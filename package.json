@@ -1,23 +1,23 @@
 {
-  "name": "@cityssm/fa5-power-transforms-css",
+  "name": "@mattandwhatnot/la-power-transforms-css",
   "version": "1.0.0",
-  "description": "Font Awesome 5 \"Power Transform\" like functionality using straight CSS",
-  "main": "fa5-power-transforms.min.css",
+  "description": "Line Awesome \"Power Transform\" like functionality using CSS",
+  "main": "la-power-transforms.min.css",
   "scripts": {
     "test": "index.htm"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cityssm/fa5-power-transforms-css.git"
+    "url": "git+https://github.com/mattandwhatnot/la-power-transforms-css.git"
   },
-  "author": "The Corporation of the City of Sault Ste. Marie",
+  "author": "Matthew Andreas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cityssm/fa5-power-transforms-css/issues"
+    "url": "https://github.com/mattandwhatnot/la-power-transforms-css/issues"
   },
-  "homepage": "https://github.com/cityssm/fa5-power-transforms-css#readme",
+  "homepage": "https://github.com/mattandwhatnot/la-power-transforms-css#readme",
   "keywords": [
-    "font-awesome-5",
+    "line-awesome",
     "css",
     "html",
     "power-transforms"
