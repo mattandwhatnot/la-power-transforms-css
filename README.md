@@ -25,10 +25,12 @@ This project is a variation for Icons8 Line Awesome. Focused on the specific fea
 - Reduces the size, or increases the size.
 - Supports whole numbers from 1 to 16.
 
-### `.la-stack` only
+### `.la-layer` only
 
-Line Awesome only uses the `la-stack` container. It does not include a `la-layers`.
+Line Awesome uses the `la-stack` container. To get these features, use `la-layers`.
 
 `up-n`, `down-n`, `left-n`, `right-n`
 - Supports whole numbers from 1 to 8.
+
+#### For simplicity and scope `mask` and `glow` has been removed
 
